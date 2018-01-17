@@ -1,0 +1,9 @@
+MyEclipse 10软件安装目录位于 （运行程序快捷键CTRL+F11）
+E\Program Files\MyEclipse\MyEclipse 10
+文件夹下！
+
+
+
+Tomcat安装于
+D:\Program Files\Apache Software Foundation\Tomcat 8.0
+文件夹下！
